@@ -17,3 +17,22 @@ In the github the analysis file contains the exploratory analysis and some visua
 We have used 10 supervised machine learning models to evaluate the prediction and metric AUC score. 
 Among all the models CatBoost model perform better with 78% of AUC score 
 
+# Team Members
+
+   Aryan Majhi - [Role 1]
+   John Abraham Chandy - [Role 2]
+   Meenu Hani - [Role 3]
+# Technologies Used
+
+   jupyter notebook
+   [Technology 2]
+   [Technology 3]
+
+# Contact Information
+
+If you have any questions about the project or would like to get in touch with the team, you can reach us at:
+
+   majhiaryan13@gmail.com
+   johnabraham.chandy@gmail.com
+   
+
