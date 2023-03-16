@@ -1,5 +1,7 @@
 # Chess-Oracle
 
+This project is being developed by a team of three members: Aryan Majhi, John Abraham Chandy, and Meenu Hani.
+
 # Objective 
 
 Predict the white winner in a chess game on the basis of first move of white player and response of black player. In the dataset all the set of moves are given but We choose to predict the white winner the first move. 
@@ -25,7 +27,7 @@ Among all the models CatBoost model perform better with 78% of AUC score
 # Technologies Used
 
    jupyter notebook
-   [Technology 2]
+   visual studio code
    [Technology 3]
 
 # Contact Information
@@ -34,5 +36,5 @@ If you have any questions about the project or would like to get in touch with t
 
    majhiaryan13@gmail.com
    johnabraham.chandy@gmail.com
-   
+   meenu.hani@science.christuniverssity.in
 
