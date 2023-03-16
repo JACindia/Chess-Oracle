@@ -20,7 +20,7 @@ Among all the models CatBoost model perform better with 78% of AUC score
 # Team Members
 
    Aryan Majhi - [Role 1]
-   John Abraham Chandy - [Role 2]
+   John Abraham Chandy - Machine learning on chess winner prediction
    Meenu Hani - [Role 3]
 # Technologies Used
 
