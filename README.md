@@ -26,10 +26,12 @@ Among all the models CatBoost model perform better with 78% of AUC score
    Meenu Hani - Deep learning 
 
 # Technologies Used
+![oneapi](https://user-images.githubusercontent.com/70305149/225831832-e22f65cf-28b2-4a29-b050-a190435bce9e.png)
 
    jupyter notebook
    visual studio code
    Tensorflow
+![220130227-3c48e87b-3e68-4f1c-b0e4-8e3ad9a4805a](https://user-images.githubusercontent.com/70305149/225831900-58898a90-911f-4c38-9cae-38803bc511bf.png)
 
 # Contact Information
 
