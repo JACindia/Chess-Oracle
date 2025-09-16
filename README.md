@@ -4,7 +4,7 @@ This project is being developed by a team of three members: Aryan Majhi, John Ab
 
 # Objective 
 
-Predict the white winner in a chess game on the basis of first move of white player and response of black player. In the dataset all the set of moves are given but We choose to predict the white winner the first move.Also it predicts the next move of the player using deep learning techniques
+Predict the white winner in a chess game on the basis of first move of white player and response of black player. In the dataset all the set of moves are given but we choose to predict the white winner the first move.Also it predicts the next move of the player using deep learning techniques
 
 # Data
 
